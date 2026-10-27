@@ -1,0 +1,8 @@
+Cátedra 2 - Administración de la Producción (EIN813 - 501 NRC 7887)
+Integrante: Benjamin Astudillo - "Carrito de completos"
+
+1_Informe  : Informe Word con descripción del proceso, resultados, indicadores y conclusiones.
+2_EasyFit  : Archivo nativo de EasyFit (.mep) con el ajuste de distribuciones (Fit1 llegadas, Fit2 servicio).
+3_AnyLogic : Modelo con 1 servidor (Carrito_Benjamin_Astudillo1.alp) y con 2 servidores (Carrito_2servidores.alp).
+4_Colab    : Notebook de Google Colab con la estadística descriptiva.
+5_Video    : Video explicativo (menos de 2 minutos).
